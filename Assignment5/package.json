@@ -1,5 +1,5 @@
 {
-  "name": "assignment4",
+  "name": "week6",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0"
   }
 }
